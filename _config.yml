@@ -1,0 +1,14 @@
+title: kala.elev.us
+permalink: /:title/
+baseurl: ""
+url: ""
+markdown: kramdown
+plugins:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - sync.sh
+  - .DS_Store
+  - .gitignore
+
