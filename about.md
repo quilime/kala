@@ -66,7 +66,7 @@ In no way is **Kāla** intended to contribute to an idea of [Calendar Reform](ht
   - Death Year (assumed)
   - Local Almanac / Weather Patterns
   - Zodiac
-  - Personal Health Patterns, Menstrual Cycle
+  - Personal Health and body Patterns
   - ... and others
 - Support and integrate traditional digital calendar API's and interfaces such as:
   - Google Calendar
