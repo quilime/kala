@@ -13,8 +13,6 @@ Author: [GLD](http://gabrieldunne.com)
 Last Edit: Sat Apr 25 11:55:34 2020
 
 
-
-
 ## Thesis
 
 
@@ -22,13 +20,16 @@ Last Edit: Sat Apr 25 11:55:34 2020
 
 Cycles are the core principal of the universe, and are all pervasive. We are thoroughly enmeshed in cycles and the periodic rhythms, which span the frequencies of space and time. Some are of the most obvious on a daily basis: our sleep patterns, the weather, the seasons, sunrise, sunset, the moon phases, and more. On a larger magnitude: the age of our bodies, the rise and decline of species, the life cycle of stars. On a smaller, our breathing rate, our heart rate, the audio spectrum of music, speaking, the visible light spectrum, radio waves, cosmic rays, and ultimately the smallest measurable amount of time we can comprehend (Planck time). The appearance of the entire world and all existence with its natural and technological cycles are rooted in archetypal, sinusoidal principals.
 
+
 ### Quantized Time
 
 WIP
 
+
 ### Relativity
 
 Most modern calendars organize our relationship to these time cycles and allow for a shared agreement and experience across the globe of our shared temporal reality. Temporal Relativity can be defined in **Kāla** defined by the user as a demarcation of where Future and Past "begin", ie, the present moment, as relative to a user-defined Epoch. When using existing models, such as Gregorian, Epoch is defined as Year 0. In **Kāla**, a user can define epoch(s) as they see fit, ideally creating various timescales that are relative to their timekeeping desires. In line with special relativity, we conclude that the user is therefore and "observer", and this definition of epoch and present moment is the "frame of reference". Reference frames are inherently nonlocal constructs, and according to this usage of the term, it does not make traditionally speak of an observer as having a location, but **Kāla's** time-frame reference requires for a location to be included. This specification is necessarily defined as a geolocation on Earth, or a TimeZone. **Kāla** is a Terrestrial (Earthly) time-keeper.
+
 
 ### Calendar Reform
 
@@ -81,18 +82,22 @@ In no way is **Kāla** intended to contribute to an idea of [Calendar Reform](ht
 
 Via [Wikipeda](https://en.wikipedia.org/wiki/Kaal), **Kāla** (Sanskrit: काल, translit. kālá, [kaːlɐ]) is a word used in Sanskrit to mean "time". It is often used as one of the various names or forms of [Yama](https://en.wikipedia.org/wiki/Yama).
 
-## Technology
-
-As of the writing of this document, Kāla's being built with:
-
-- PostgreSQL
-- Python [Skyfield](https://github.com/skyfielders/python-skyfield/)
-- [p5js](https://p5js.org/)
-
 
 ## References
 
-### Links
+### Prior Work
+
+  - http://gabrieldunne.com/hyperterra/
+  - http://gabrieldunne.com/monad/
+  - http://gabrieldunne.com/celestes/
+
+
+### Technology
+
+- [Skyfield](https://github.com/skyfielders/python-skyfield/)
+
+
+### Reference Links
 
   - [http://www.astronomy.com/news/2020/01/why-does-a-week-have-seven-days](http://www.astronomy.com/news/2020/01/why-does-a-week-have-seven-days)
   - [https://www.youtube.com/watch?v=P-hUV9yhqgY](https://www.youtube.com/watch?v=P-hUV9yhqgY)
