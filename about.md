@@ -4,7 +4,7 @@ layout: home
 
 #  [Kāla]({{site.baseurl}}/)
 
-A graphical interface for relative galactic timekeeping 🌍🌎🌏⏳
+An interface for relative galactic timekeeping 🌍🌎🌏⏳
 
 This document is a WIP brain dump as the project takes shape.
 
@@ -87,9 +87,9 @@ Via [Wikipeda](https://en.wikipedia.org/wiki/Kaal), **Kāla** (Sanskrit: का�
 
 ### Prior Work
 
-  - http://gabrieldunne.com/hyperterra/
-  - http://gabrieldunne.com/monad/
-  - http://gabrieldunne.com/celestes/
+  - [Hyper Terra (2015)](http://gabrieldunne.com/hyperterra/)
+  - [Monad (2010)](http://gabrieldunne.com/monad/)
+  - [Celestias Calender (2002)](http://gabrieldunne.com/celestes/)
 
 
 ### Technology
