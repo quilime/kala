@@ -10,7 +10,7 @@ This document is a WIP brain dump as the project takes shape.
 
 Author: [GLD](http://gabrieldunne.com)
 
-Last Edit: Sat Apr 25 11:55:34 2020
+Last Edit: Tue Apr 28 11:08:19 2020
 
 
 ## Thesis
