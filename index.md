@@ -2,7 +2,7 @@
 layout: home
 ---
 
-#  [Kāla]({{site.baseurl}}/)
+#  Kāla
 
 An interface for relative galactic timekeeping 🌍🌎🌏⏳
 
@@ -10,7 +10,7 @@ This document is a WIP brain dump as the project takes shape.
 
 Author: [GLD](http://gabrieldunne.com)
 
-Last Edit: Tue Apr 28 11:08:19 2020
+Last Edit: Tue Apr 28 11:13:45 2020
 
 
 ## Thesis
