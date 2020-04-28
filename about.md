@@ -2,7 +2,7 @@
 layout: home
 ---
 
-#  [Kāla]({{site.baseurl}}/)
+#  Kāla
 
 An interface for relative galactic timekeeping 🌍🌎🌏⏳
 
