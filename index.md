@@ -30,6 +30,9 @@ WIP
 
 Most modern calendars organize our relationship to these time cycles and allow for a shared agreement and experience across the globe of our shared temporal reality. Temporal Relativity can be defined in **Kāla** defined by the user as a demarcation of where Future and Past "begin", ie, the present moment, as relative to a user-defined Epoch. When using existing models, such as Gregorian, Epoch is defined as Year 0. In **Kāla**, a user can define epoch(s) as they see fit, ideally creating various timescales that are relative to their timekeeping desires. In line with special relativity, we conclude that the user is therefore and "observer", and this definition of epoch and present moment is the "frame of reference". Reference frames are inherently nonlocal constructs, and according to this usage of the term, it does not make traditionally speak of an observer as having a location, but **Kāla's** time-frame reference requires for a location to be included. This specification is necessarily defined as a geolocation on Earth, or a TimeZone. **Kāla** is a Terrestrial (Earthly) time-keeper.
 
+## Etymology
+
+Via [Wikipeda](https://en.wikipedia.org/wiki/Kaal), **Kāla** (Sanskrit: काल, translit. kālá, [kaːlɐ]) is a word used in Sanskrit to mean "time". It is often used as one of the various names or forms of [Yama](https://en.wikipedia.org/wiki/Yama).
 
 ### Calendar Reform
 
@@ -38,7 +41,7 @@ In no way is **Kāla** intended to contribute to an idea of [Calendar Reform](ht
 
 ## Proposal
 
-**Kāla** is a graphical interface for high-precision timekeeping and reference. It is a clock as well as a calendar. It is intended to be used within a web browser (for now). Its intended use-cases include:
+**Kāla** is a graphical interface for high-precision timekeeping and reference. It is a clock as well as a calendar.  Use-cases include:
 
 - Source of "relative temporal truth" based on research-grade astronomical computation
 - Graphical representations that can be exported as PDF for print
@@ -78,9 +81,7 @@ In no way is **Kāla** intended to contribute to an idea of [Calendar Reform](ht
   - ... and others
 
 
-## Etymology
 
-Via [Wikipeda](https://en.wikipedia.org/wiki/Kaal), **Kāla** (Sanskrit: काल, translit. kālá, [kaːlɐ]) is a word used in Sanskrit to mean "time". It is often used as one of the various names or forms of [Yama](https://en.wikipedia.org/wiki/Yama).
 
 
 ## References
