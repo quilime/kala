@@ -10,7 +10,7 @@ This document is a WIP brain dump as the project takes shape.
 
 Author: [GLD](http://gabrieldunne.com)
 
-Last Edit: Tue Apr 28 14:41:00 2020
+Last Edit: Sat Oct 22 22:21:42 2022
 
 
 ## Thesis
@@ -132,6 +132,7 @@ In no way is **Kāla** intended to contribute to an idea of [Calendar Reform](ht
   - [http://www.mysticalinternet.com/software/td.htm](http://www.mysticalinternet.com/software/td.htm)
   - [https://oto-usa.org/](https://oto-usa.org/)
   - [https://timecube.2enp.com/](https://timecube.2enp.com/)
+  - [https://stevemorse.org/hebrewcalendar/hebrewcalendar.htm](https://stevemorse.org/hebrewcalendar/hebrewcalendar.htm)
 
 
 ### Articles
