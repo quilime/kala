@@ -137,48 +137,48 @@ In no way is **Kāla** intended to contribute to an idea of [Calendar Reform](ht
 
 ### Articles
 
-  - [Catastrophic_Astrology.pdf]({{site.baseurl}}/assets/kala/Catastrophic Astrology.pdf)
-  - [Gender Acceleration - A Blackpaper]({{site.baseurl}}/assets/kala/Gender Acceleration  A Blackpaper.pdf)
+  - [Catastrophic_Astrology.pdf](https://github.com/quilime/kala/raw/master/assets/kala/Catastrophic-Astrology.pdf)
+  - [Gender Acceleration - A Blackpaper](https://github.com/quilime/kala/raw/master/assets/kala/Gender-Acceleration-A-Blackpaper.pdf)
 
 ### Images
 
-![]({{site.baseurl}}/assets/kala/lunarcalendarposter2018_dmtrorg.jpg)
+![](https://github.com/quilime/kala/raw/master/assets/kala/lunarcalendarposter2018_dmtrorg.jpg)
 [DMTR.org](http://dmtr.org/lunarcalendar)
 
-![]({{site.baseurl}}/assets/kala/4298657997_7bd161abcd_o.png)
+![](https://github.com/quilime/kala/raw/master/assets/kala/4298657997_7bd161abcd_o.png)
 [Monad 2010 - Gabriel Dunne](http://gabrieldunne.com/monad/)
 
-![]({{site.baseurl}}/assets/kala/2-monad2.jpg)
+![](https://github.com/quilime/kala/raw/master/assets/kala/2-monad2.jpg)
 [Monad 2010 - Gabriel Dunne](http://gabrieldunne.com/monad/)
 
-![]({{site.baseurl}}/assets/kala/z-4254727883_5f7090db0f_o.png)
+![](https://github.com/quilime/kala/raw/master/assets/kala/z-4254727883_5f7090db0f_o.png)
 [Monad 2010 - Gabriel Dunne](http://gabrieldunne.com/monad/)
 
-![]({{site.baseurl}}/assets/kala/GSAgeotime.gif)
+![](https://github.com/quilime/kala/raw/master/assets/kala/GSAgeotime.gif)
 
-![]({{site.baseurl}}/assets/kala/Geologic_Clock_with_events_and_periods.svg.png)
+![](https://github.com/quilime/kala/raw/master/assets/kala/Geologic_Clock_with_events_and_periods.svg.png)
 
-![]({{site.baseurl}}/assets/kala/Geological_time_spiral.png)
+![](https://github.com/quilime/kala/raw/master/assets/kala/Geological_time_spiral.png)
 
-![]({{site.baseurl}}/assets/kala/durer_spiral_time.jpg)
+![](https://github.com/quilime/kala/raw/master/assets/kala/durer_spiral_time.jpg)
 
-![]({{site.baseurl}}/assets/kala/f833c37efc8b9555d0585d6d7ddb7115.jpg)
+![](https://github.com/quilime/kala/raw/master/assets/kala/f833c37efc8b9555d0585d6d7ddb7115.jpg)
 
-![]({{site.baseurl}}/assets/kala/present-calendar.png)
+![](https://github.com/quilime/kala/raw/master/assets/kala/present-calendar.png)
 
-![]({{site.baseurl}}/assets/kala/international-fixed-calendar.png)
+![](https://github.com/quilime/kala/raw/master/assets/kala/international-fixed-calendar.png)
 
-![]({{site.baseurl}}/assets/kala/kodak-13-period-calendar.jpg)
+![](https://github.com/quilime/kala/raw/master/assets/kala/kodak-13-period-calendar.jpg)
 
-![]({{site.baseurl}}/assets/kala/qt08sk8dkc641.jpg)
+![](https://github.com/quilime/kala/raw/master/assets/kala/qt08sk8dkc641.jpg)
 
-![]({{site.baseurl}}/assets/kala/helixtime.png)
+![](https://github.com/quilime/kala/raw/master/assets/kala/helixtime.png)
 [https://helixtime.io/](https://helixtime.io/)
 
-![]({{site.baseurl}}/assets/kala/Circular-motion-as-a-space-time-helix-showing-three-points-in-electromagnetic-contact.png)
+![](https://github.com/quilime/kala/raw/master/assets/kala/Circular-motion-as-a-space-time-helix-showing-three-points-in-electromagnetic-contact.png)
 [Circular motion as space-time helix](https://www.researchgate.net/figure/Circular-motion-as-a-space-time-helix-showing-three-points-in-electromagnetic-contact_fig3_253380547)
 
-![]({{site.baseurl}}/assets/kala/XvrhN.jpg)
+![](https://github.com/quilime/kala/raw/master/assets/kala/XvrhN.jpg)
 time dilation using a light-pulse clock in the book 'Concepts of modern physics' by Arthur Beiser
 
 
