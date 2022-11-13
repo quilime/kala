@@ -135,11 +135,6 @@ In no way is **Kāla** intended to contribute to an idea of [Calendar Reform](ht
   - [https://stevemorse.org/hebrewcalendar/hebrewcalendar.htm](https://stevemorse.org/hebrewcalendar/hebrewcalendar.htm)
 
 
-### Articles
-
-  - [Catastrophic_Astrology.pdf](https://github.com/quilime/kala/raw/master/assets/kala/Catastrophic-Astrology.pdf)
-  - [Gender Acceleration - A Blackpaper](https://github.com/quilime/kala/raw/master/assets/kala/Gender-Acceleration-A-Blackpaper.pdf)
-
 ### Images
 
 ![](https://github.com/quilime/kala/raw/master/assets/kala/lunarcalendarposter2018_dmtrorg.jpg)
