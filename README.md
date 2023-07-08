@@ -10,7 +10,7 @@ This document is a WIP brain dump as the project takes shape.
 
 Author: [GLD](http://gabrieldunne.com)
 
-Last Edit: Sat Oct 22 22:21:42 2022
+Last Edit: Sat Jul  8 12:10:06 2023
 
 
 ## Thesis
@@ -133,9 +133,10 @@ In no way is **Kāla** intended to contribute to an idea of [Calendar Reform](ht
   - [https://oto-usa.org/](https://oto-usa.org/)
   - [https://timecube.2enp.com/](https://timecube.2enp.com/)
   - [https://stevemorse.org/hebrewcalendar/hebrewcalendar.htm](https://stevemorse.org/hebrewcalendar/hebrewcalendar.htm)
+  - [https://www.rfc-editor.org/rfc/rfc8984.html](https://www.rfc-editor.org/rfc/rfc8984.html)
 
 
-### Images
+### Images References
 
 ![](https://github.com/quilime/kala/raw/master/assets/kala/lunarcalendarposter2018_dmtrorg.jpg)
 [DMTR.org](http://dmtr.org/lunarcalendar)
